@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IpNotifier", "IpNotifier\IpNotifier.vbproj", "{89161B00-DEAA-49AB-8539-E9911758431A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IpNotifierGUI", "IpNotifierGUI\IpNotifierGUI.vbproj", "{82D9925E-FD64-4939-A24B-522EF9661A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89161B00-DEAA-49AB-8539-E9911758431A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89161B00-DEAA-49AB-8539-E9911758431A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89161B00-DEAA-49AB-8539-E9911758431A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89161B00-DEAA-49AB-8539-E9911758431A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D9925E-FD64-4939-A24B-522EF9661A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D9925E-FD64-4939-A24B-522EF9661A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D9925E-FD64-4939-A24B-522EF9661A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D9925E-FD64-4939-A24B-522EF9661A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
